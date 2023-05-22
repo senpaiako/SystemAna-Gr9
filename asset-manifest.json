@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/SystemAna-Group9/static/css/main.89b6abe2.css",
+    "main.js": "/SystemAna-Group9/static/js/main.c35b8c35.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SystemAna-Group9/static/js/787.28cb0dcd.chunk.js",
+    "static/media/usc-bg.jpg": "/SystemAna-Group9/static/media/usc-bg.13b2ceecb1d61121aafd.jpg",
+    "static/media/DCISM_LOGO.png": "/SystemAna-Group9/static/media/DCISM_LOGO.6efc20684e9e9fe8c71b.png",
+    "static/media/logo.svg": "/SystemAna-Group9/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SystemAna-Group9/index.html",
+    "main.89b6abe2.css.map": "/SystemAna-Group9/static/css/main.89b6abe2.css.map",
+    "main.c35b8c35.js.map": "/SystemAna-Group9/static/js/main.c35b8c35.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SystemAna-Group9/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89b6abe2.css",
+    "static/js/main.c35b8c35.js"
+  ]
+}
